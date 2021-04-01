@@ -1,7 +1,6 @@
 {
   "name": "fruitsproject",
   "version": "1.0.0",
-  "description": "",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,6 +8,17 @@
   "author": "Maryan Ali",
   "license": "ISC",
   "dependencies": {
-    "mongodb": "^3.6.5"
-  }
+    "mongodb": "^3.6.5",
+    "mongoose": "^5.12.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maryanali/FruitsProject.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Maryanali/FruitsProject/issues"
+  },
+  "homepage": "https://github.com/Maryanali/FruitsProject#readme",
+  "description": ""
 }
